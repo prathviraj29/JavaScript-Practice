@@ -2,9 +2,9 @@
 
 const accountId = 13415475;                              // const - Value ko reassign nahi kar sakte
 
-let accountEmail = "gillu@gmail.com";                    // let - Value ko change kar sakte hain
+let accountEmail = "gillu@gmail.com";                   // let - Value ko change kar sakte hain
 
-var accountPassword = "12345678";                        // var - Old way of declaring variables
+var accountPassword = "12345678";                       // var - Old way of declaring variables
 
 // Variable declaration without assigning a value
 let accountCity = "indore";
