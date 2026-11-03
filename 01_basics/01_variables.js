@@ -1,4 +1,3 @@
-
 // Variables in JavaScript
 
 const accountId = 13415475;                              // const - Value ko reassign nahi kar sakte
@@ -33,5 +32,6 @@ console.log(accountId);
 - let aur const block scope follow karte hain, jabki var function scope follow karta hai.
 
                 Prefer let and const instead of var
-
 */
+
+
