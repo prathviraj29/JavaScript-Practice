@@ -8,7 +8,7 @@ let age = 29;
 let isLoggedIn = false;
 let state;
 
-// Code readability high honi chahiye, taaki code easily samajh aa sake.
+// Code readability high honi chahiye, taaki code easily samajh aa sake      
 
 
 // - - - - - - - - - -  Data Types in JavaScript  - - - - - - - - - -
