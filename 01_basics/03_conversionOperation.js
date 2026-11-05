@@ -4,7 +4,7 @@
 let score = "suraj";
 
 console.log(typeof score);           // typeof se variable ka datatype check kar sakte hain
-console.log(typeof (score));
+console.log(typeof (score));  // string
 
 let valueInNumber = Number(score);          // Number() kisi value ko Number datatype mein convert karta hai
 
