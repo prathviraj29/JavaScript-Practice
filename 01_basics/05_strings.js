@@ -6,7 +6,7 @@
 const name = "Prathviraj";
 const age = 19;
 
-// console.log(name + age + " Engineer");        // Old way of combining strings
+console.log(name + age + " Engineer");        // Old way of combining strings
 
 // Template literals (Modern way)
 // ${} ka use karke variables ko string ke andar add kar sakte hain.
