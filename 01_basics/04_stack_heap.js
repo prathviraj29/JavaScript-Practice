@@ -1,5 +1,5 @@
 
-// - - - - - - - - # Stack (primitive) :- - - - - - - - 
+// - - - - - - - - - # Stack (primitive) :- - - - - - - - - 
 
 let myRealName = "Chetan";
 
@@ -7,13 +7,13 @@ let mySchoolName = myRealName;          // myRealName ki value copy hokar myScho
 mySchoolName = "Prathviraj";            // Ab hum sirf copied value change kar rahe hain
 
 console.log(mySchoolName);  // Prathviraj
-console.log(myRealName);  // Chetan
+console.log(myRealName);    // Chetan
 
 // Stack :- not change original data, only change in Copy
 //          stack se koi chizz(kisi chizz ka data) lenge to uski copy hi milegi original data access nahi milega change bhi copy me hi hogaa
 
 
-// - - - - - - - - # Heap (non-Primitive) :- - - - - - - - 
+// - - - - - - - - - # Heap (non-Primitive) :- - - - - - - - - 
 
 let userOne = {
     email : "chetan@gmail.com",
