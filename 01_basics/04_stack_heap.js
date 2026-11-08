@@ -1,4 +1,5 @@
-// # Stack (primitive) :-
+
+// - - - - - - - - # Stack (primitive) :- - - - - - - - 
 
 let myRealName = "Chetan";
 
@@ -9,11 +10,10 @@ console.log(mySchoolName);  // Prathviraj
 console.log(myRealName);  // Chetan
 
 // Stack :- not change original data, only change in Copy
-//          stack se koi chizz(kisi chizz ka data) lenge to uski copy hi milegi original data 
-//          access nahi milega change bhi copy me hi hogaa
+//          stack se koi chizz(kisi chizz ka data) lenge to uski copy hi milegi original data access nahi milega change bhi copy me hi hogaa
 
 
-// # Heap (non-Primitive) :-
+// - - - - - - - - # Heap (non-Primitive) :- - - - - - - - 
 
 let userOne = {
     email : "chetan@gmail.com",
@@ -28,5 +28,5 @@ console.log(userOne.email);  // praviraj@gmail.com
 console.log(userTwo.email);  // praviraj@gmail.com
 
 // heap :- change in original(reference) data, 
-//         heap se koi chizz(kisi chizz ka data) lenge to uska original data access milega or 
-//         original data change hoga
+//         heap se koi chizz(kisi chizz ka data) lenge to uska original data access milega or original data change hoga
+
