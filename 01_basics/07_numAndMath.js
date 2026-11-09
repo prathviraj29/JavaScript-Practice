@@ -11,7 +11,7 @@ console.log(balance);
 console.log(balance.toString().length);  // 3          // Pehle string me convert karega, fir uski length batayega
 
 
-console.log(balance.toFixed(2));          // Decimal ke baad 2 digits show karega (200.00)
+console.log(balance.toFixed(2));  // 200.00          // Decimal ke baad 2 digits show karega 
 
 const otherNumber = 123.659;
 
@@ -23,7 +23,7 @@ console.log(price.toLocaleString());                   // US format me commas la
 console.log(price.toLocaleString("en-IN"));            // Indian format me commas lagayega (10,00,000)
 
 
-// - - - - - - - - - - Math - - - - - - - - - -
+// - - - - - - - - - - Math :- - - - - - - - - -
 
 // Math JavaScript ka built-in object hai, isme mathematical calculations ke ready-made methods hote hain
 
