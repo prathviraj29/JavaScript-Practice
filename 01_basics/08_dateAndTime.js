@@ -1,9 +1,9 @@
 
 // - - - - - CURRENT DATE AND TIME - - - - - - - - - - 
 
-let myDate = new Date();                     // new Date() current date aur time ka object banata hai, date object ka data different formats mein dekh sakte hain
+let myDate = new Date();                     // new Date() current date aur time ka object banata hai, date object ka data different formats me dekh sakte hain
 
-console.log(typeof myDate);  // object          // Date JavaScript mein ek tarah ka object hota hai
+console.log(typeof myDate);  // object          // Date JavaScript mei ek tarah ka object hota hai
 
 console.log(myDate.toString());             // Complete date aur time readable format mein deta hai.
 
