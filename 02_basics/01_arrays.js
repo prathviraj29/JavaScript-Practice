@@ -1,11 +1,11 @@
 
 // - - - - - ARRAY CREATION - - - - - - - - - -
 
-const myArr = [6, 4, 9, 2, 5, 7];          // Array ek variable mein multiple values store karta hai, Array ka index 0 se start hota hai.
+const myArr = [6, 4, 9, 2, 5, 7];          // Array ek variable mein multiple values store karta hai, Array ka index 0 se start hota hai
 
-const myHeroes = ["IronMan", "CaptainAmerica", "SpiderMan"];          // Strings ko bhi array mein store kar sakte hain.
+const myHeroes = ["ironMan", "captainAmerica", "spiderMan"];          // Strings ko bhi array mein store kar sakte hain.
 
-const myArr2 = new Array(1, 2, 3, 4);          // Array create karne ka doosra tarika.
+const myArr2 = new Array(1, 2, 3, 4);          // Array create karne ka doosra tarika
 
 
 // - - - - - ACCESSING ARRAY ELEMENTS - - - - - - - - - -
