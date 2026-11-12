@@ -11,9 +11,8 @@ marvel_heros.push(dc_heros);          // ek array ko doosre array ke end mein ad
 console.log(marvel_heros);                    // ["thor", "ironman", "spiderman",["superman", "flash", "batman"]]
 
 console.log(marvel_heros[3][1]);  // flash          // Nested array ke andar value access karna.
-
-// [3] = Fourth element (DC array)
-// [1] = DC array ka second element (flash)
+                                                    // [3] = Fourth element (DC array) 
+                                                    // [1] = DC array ka second element (flash)
 
 
 // - - - - - concat() METHOD - - - - - - - - - -
