@@ -54,3 +54,30 @@ delete student.isGraduated;
 
 console.log(student);
 
+
+// - - - - - Checking Property in Object - - - - - - - - 
+
+// 'in' operator check karta hai ki property object mein exist karti hai ya nahi
+
+console.log("name" in student);    // true
+console.log("salary" in student);  // false
+
+
+// - - - - - Object.seal() - - - - - - - - - - 
+
+Object.seal(student);     // object ko seal kar deta hai, Iske baad new properties add ya delete nahi kar sakte.
+
+student.age = 23;          // Lekin existing properties ki values update kar sakte hain.
+student.fee = 100000;      // not allowed
+
+
+// - - - - - Object.freeze() - - - - - - - - - - 
+
+Object.freeze(student);     // object ko freeze kar deta hai, Iske baad existing properties ko update ya delete bhi nahi kar sakte.
+
+student.name = "Chetan";            // Change nahi hoga          
+student.fee = 100000;               // Aur new properties bhi add nahi kar sakte.
+
+console.log(student);
+
+
