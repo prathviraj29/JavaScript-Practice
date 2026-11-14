@@ -28,38 +28,30 @@ console.log(student["course"]);
 
 // - - - - - Updating Object Properties - - - - - - - - - -
 
-// Existing property ki value change kar sakte hain.
-
-student.age = 22;
-student.course = "B.Tech CSE";
+student.age = 22;                       // Existing property ki value change kar sakte hain.
+student.course = "B.Tech CSE";          
 
 console.log(student);
 
 
 // - - - - - Adding New Properties - - - - - - - - - - 
 
-// Object mein new property bhi add kar sakte hain.
-
-student.city = "Khargone";
-student.college = "Sushila Devi Bansal College";
+student.city = "Khargone";          // Object mein new property bhi add kar sakte hain.                
+student.college = "SDBC";
 
 console.log(student);
 
 
 // - - - - - Deleting Object Properties - - - - - 
 
-// delete keyword se property remove kar sakte hain.
-
-delete student.isGraduated;
+delete student.isGraduated;          // delete keyword se property remove kar sakte hain.
 
 console.log(student);
 
 
 // - - - - - Checking Property in Object - - - - - - - - 
 
-// 'in' operator check karta hai ki property object mein exist karti hai ya nahi
-
-console.log("name" in student);    // true
+console.log("name" in student);    // true          // 'in' operator check karta hai ki property object mein exist karti hai ya nahi
 console.log("salary" in student);  // false
 
 
