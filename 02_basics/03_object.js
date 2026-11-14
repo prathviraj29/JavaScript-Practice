@@ -2,7 +2,7 @@
 // - - - - - - - - - - OBJECTS - - - - - - - - - -
 
 const student = {
-    name: "Prathviraj",
+    name: "Ambulkar",
     age: 21,
     course: "B.Tech",
     branch: "Computer Science",
