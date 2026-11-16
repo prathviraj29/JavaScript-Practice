@@ -11,7 +11,7 @@ const student = {
     }
 };
 
-console.log(student.address.city);   // "reeva"         // Nested object ki properties access karna.
+console.log(student.address.city);   // "reeva"         // Nested object ki properties access karna
 console.log(student.address.state);
 
 
@@ -86,6 +86,6 @@ const {
     age: studentAge
 } = studentData;
 
-console.log(studentName);  // chetan
+console.log(studentName);  // chetan    
 console.log(studentAge);   // 20
 
