@@ -2,7 +2,7 @@
 // - - - - - FUNCTION DECLARATION - - - - - - - - - - 
 
 function greet() {                        // Function Declaration ka matlab function ko define karna, function ke andar hum apna reusable code likhte hain.
-    console.log("Hello prathviraj!");
+    console.log("Hello prathviraj");
 }
 
 
@@ -10,7 +10,7 @@ function greet() {                        // Function Declaration ka matlab func
 
 // Function define karne se code execute nahi hota, function ko execute karne ke liye call karna padta hai.
 
-greet();  // Hello prathviraj!
+greet();  // Hello prathviraj
 
 
 // - - - - - PARAMETERS AND ARGUMENTS - - - - - - - - - - 
@@ -83,4 +83,5 @@ const sayHello = function () {            // Yahan function ka naam nahi hai, ye
 };
 
 sayHello();  // Hello World
+
 
