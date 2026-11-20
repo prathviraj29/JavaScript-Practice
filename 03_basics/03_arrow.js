@@ -67,7 +67,7 @@ const welcome = (username = "guest") => {
     console.log(`Welcome ${username}`);
 };
 
-welcome("sujit");  // Welcome Rahul          // print sujit kyuki argument pass ho raha hai
+welcome("sujit");  // Welcome sujit          // print sujit kyuki argument pass ho raha hai
 welcome();         // Welcome Guest          // print guest kyuki argument pass nahi ho raha hai
 
 
