@@ -73,42 +73,6 @@ JavaScript-Practice/
 └── README.md
 ```
 
-## Topics Covered
-
-### 01. JavaScript Basics
-- Variables and Data Types
-- Type Conversion
-- Stack and Heap Memory
-- Comparison Operators
-- Strings
-- Numbers and Math
-- Date and Time
-
-### 02. Arrays and Objects
-- Arrays and Array Methods
-- Objects
-- Object Properties and Methods
-
-### 03. Functions and Scope
-- Function Declaration and Expression
-- Parameters and Arguments
-- Return Statement
-- Scope and Lexical Scope
-- Advanced Function Concepts
-- IIFE
-
-### 04. Control Flow
-- If, If-Else and Else-If
-- Nested Conditions
-- Switch Statement
-- Logical Operators
-- Truthy and Falsy Values
-- Nullish Coalescing Operator
-- Ternary Operator
-- For, While and Do-While Loops
-- For...of and For...in
-- Break and Continue
-
 ## Technologies Used
 
 - JavaScript
